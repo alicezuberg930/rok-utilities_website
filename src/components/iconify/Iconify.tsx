@@ -3,7 +3,7 @@ import { forwardRef } from 'react'
 import { Icon } from '@iconify/react'
 // @mui
 import { Box, BoxProps } from '@mui/material'
-//
+// type
 import { IconifyProps } from './types'
 
 // ----------------------------------------------------------------------

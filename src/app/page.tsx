@@ -10,6 +10,7 @@ import Iconify from '@/components/iconify'
 import { Question } from '@/@types/question'
 // utils
 import { highlightText } from '@/utils/highlight'
+import EmptyContent from '@/components/empty-content'
 
 export default function page() {
   const [filterName, setFilterName] = useState<string>('')
@@ -49,9 +50,11 @@ export default function page() {
         }}
       />
       {isNotFound ? (
-        <Typography variant='h6' sx={{ mt: 4 }}>
-          No results found
-        </Typography>
+        <EmptyContent
+          sx={{ width: '100%' }}
+          title='No results found'
+          description='No answers were found for this question'
+        />
       ) : (
         <List sx={{ mt: 2 }}>
           {dataFiltered.map((item, index) => {
@@ -101,7 +104,6 @@ export default function page() {
 }
 
 // Filter function
-
 const applyFilter = ({
   inputData = [],
   filterName
