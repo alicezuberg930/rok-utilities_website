@@ -3,7 +3,7 @@ import { useState } from 'react'
 // data
 import data from '@/assets/questions.json'
 // @mui
-import { Alert, Card, Container, Grid, InputAdornment, List, ListItem, ListItemText, Snackbar, TextField, Typography } from '@mui/material'
+import { Alert, Card, Container, InputAdornment, List, ListItem, ListItemText, Snackbar, TextField, Typography } from '@mui/material'
 // components
 import Iconify from '@/components/iconify'
 // type
@@ -19,7 +19,7 @@ export default function page() {
     setFilterName(event.target.value)
   }
 
-  const isFiltered = filterName !== ''
+  // const isFiltered = filterName !== ''
 
   const dataFiltered = applyFilter({
     inputData: data,
@@ -87,18 +87,6 @@ export default function page() {
           })}
         </List>
       )}
-      {/* <Snackbar
-        open={true}
-        autoHideDuration={3000}
-        // onClose={() => setOpenSnackbar(false)}
-        anchorOrigin={{ vertical: 'top', horizontal: 'right' }}
-      >
-        <Alert
-          // onClose={() => setOpenSnackbar(false)}
-          severity="success" sx={{ width: '100%' }}>
-          Answer copied to clipboard!
-        </Alert>
-      </Snackbar> */}
     </Container>
   )
 }
