@@ -2,6 +2,7 @@
 import { useEffect, useState } from 'react'
 // data
 import data from '@/assets/questions.json'
+// import newData from '@/assets/rok_questions.json'
 // @mui
 import { Alert, Card, Container, InputAdornment, List, ListItem, ListItemText, Snackbar, TextField, Typography } from '@mui/material'
 // components
@@ -21,14 +22,11 @@ export default function page() {
 
   // const isFiltered = filterName !== ''
   useEffect(() => {
+    // let newDataTemp = newData
     // let dataTemp = data
-    // for (let i = 0; i < dataTemp.length; i++) {
-    //   for (let j = i + 1; j < dataTemp.length; j++) {
-    //     if (dataTemp[i].question === dataTemp[j].question) {
-    //       console.log(dataTemp[j].question)
-    //     }
-    //   }
-    // }
+    // const existingQuestions = new Set(dataTemp.map(item => item.question.toLowerCase().replace('?', '')))
+    // const newUniqueItems = newDataTemp.filter(item => !existingQuestions.has(item.question.toLowerCase().replace('?', '')))
+    // console.info(newUniqueItems);
   }, [])
 
   const dataFiltered = applyFilter({

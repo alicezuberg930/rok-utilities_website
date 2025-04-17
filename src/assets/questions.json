@@ -824,7 +824,7 @@
     "answer": "Cerberus"
   },
   {
-    "question": "In Greek mythology, which hero quested for the Golden Fleece?",
+    "question": "In Greek mythology, which hero requested for the Golden Fleece?",
     "answer": "Jason"
   },
   {
@@ -1130,10 +1130,6 @@
   {
     "question": "In the Peerless Scholar event, how many answers do you need to get correct in the Preliminary to quality for the Midterm?",
     "answer": "6"
-  },
-  {
-    "question": "In the simplified Maslow''s hierarchy of needs, which need is at the top of the pyramid?",
-    "answer": "Self-actualization"
   },
   {
     "question": "In total, how many goals were scored at the 2018 World Cup?",
@@ -1844,10 +1840,6 @@
     "answer": "The Song"
   },
   {
-    "question": "The Renaissance was a 'rebirth' of what?",
-    "answer": "Classical culture"
-  },
-  {
     "question": "The saying 'The Empire on which the sun never sets' was originally used in reference to which country's empire?",
     "answer": "Spain"
   },
@@ -1872,7 +1864,7 @@
     "answer": "Carthage"
   },
   {
-    "question": "The Three Kingdoms of Korea were Baekje, Silla, and …?",
+    "question": "The Three Kingdoms of Korea were Baekje, Silla, and?",
     "answer": "Goguryeo"
   },
   {
@@ -2108,7 +2100,7 @@
     "answer": "Distance"
   },
   {
-    "question": "What is Belisarius' nickname?",
+    "question": "What is Belisarius's nickname?",
     "answer": "Last of the Romans"
   },
   {
@@ -2673,19 +2665,19 @@
   },
   {
     "question": "When was Napoleon Bonaparte born?",
-    "answer": "1769.0"
+    "answer": "1769"
   },
   {
     "question": "When was the Declaration of Independence written?",
-    "answer": "1776.0"
+    "answer": "1776"
   },
   {
     "question": "When was the first Venice Film Festival held?",
-    "answer": "1932.0"
+    "answer": "1932"
   },
   {
     "question": "When was the theremin, one of the first electronic musical instruments, invented?",
-    "answer": "1919.0"
+    "answer": "1919"
   },
   {
     "question": "When were bicycles introduced to Europe?",
@@ -3528,10 +3520,6 @@
     "answer": "Richard I"
   },
   {
-    "question": "Which of the following commanders in RoK was the only ruler in history to defeat Cyrus the Great in a major battle?",
-    "answer": "Tomyris"
-  },
-  {
     "question": "Which of the following commanders joined a rebellion against her own husband?",
     "answer": "Constance"
   },
@@ -4260,7 +4248,7 @@
     "answer": "Chinese Dragon"
   },
   {
-    "question": "Which of these effects is NOT caused by Æthelflæd's skills?",
+    "question": "Which of these effects is NOT caused by Aethelflaed's skills?",
     "answer": "Healing slightly wounded units"
   },
   {
@@ -5112,7 +5100,7 @@
     "answer": "Fenrir"
   },
   {
-    "question": "Who led the Kingdom of Prussia in the Seven Years' War?",
+    "question": "Who led the Kingdom of Prussia in the Seven Years War?",
     "answer": "Frederick II"
   },
   {
@@ -5388,7 +5376,7 @@
     "answer": "Because they are more likely to survive and reproduce"
   },
   {
-    "question": "Why do frogs and other organism produce so many eggs/offspring?",
+    "question": "Why do frogs and other organisms produce so many eggs/offspring?",
     "answer": "The more offspring produced the more likely they will survive"
   },
   {
@@ -5417,7 +5405,7 @@
   },
   {
     "question": "Without using buffs, how many Action Points can a Governor have?",
-    "answer": "1000.0"
+    "answer": "1000"
   },
   {
     "question": "Work on which of these cathedrals began in Copenhagen in 1877?",
@@ -5513,7 +5501,7 @@
   },
   {
     "question": "what is the most abundant substance in the body of a healthy adult",
-    "answer": "water"
+    "answer": "Water"
   },
   {
     "question": "Ceroli Cheif Sundown Smash Skill?",
@@ -5558,5 +5546,909 @@
   {
     "question": "Which of these building can you use to participate in the World Wanderer game mode?",
     "answer": "Lyceum of Wisdom"
+  },
+  {
+    "question": "Albert Einstein was awarded the 1921 Nobel Prize in Physics for which discovery?",
+    "answer": "The photoelectric effect"
+  },
+  {
+    "question": "Advantages of Johannes Gutenberg's printing press include all of the following except",
+    "answer": "Increase in church power"
+  },
+  {
+    "question": "A human fingernail is made of what?",
+    "answer": "Alpha-keratin"
+  },
+  {
+    "question": "Ancient Egyptian history spans how many kingdoms?",
+    "answer": "3 - Old, Middle, New"
+  },
+  {
+    "question": "Ashoka the great was the king of which ancient kingdom?",
+    "answer": "Maurya Dynasty"
+  },
+  {
+    "question": "Before leading the biggest slave rebellion of Ancient Rome, what was Spartacus?",
+    "answer": "Gladiator"
+  },
+  {
+    "question": "China's crosstalk sketch comedy format originates in three places: Tianqiao in Beijing, the Quanty Bazaar in Tianjin and where in Nanjing?",
+    "answer": "Fuzimiao"
+  },
+  {
+    "question": "China's Temple of Heaven was built during the reign of which emperor?",
+    "answer": "The Yongle Emperor (Zhu Di)"
+  },
+  {
+    "question": "Combat tactics is an important military technology – what effect does it have?",
+    "answer": "Increase attack to all units"
+  },
+  {
+    "question": "Darwin's las book primarily discussed which species' influence on soil?",
+    "answer": "Earthworms"
+  },
+  {
+    "question": "Elder brother of Zeus",
+    "answer": "Poseidon"
+  },
+  {
+    "question": "Eyeglasses are composed of quartz, sand, and what?",
+    "answer": "Petroleum"
+  },
+  {
+    "question": "First created in Ancient Greece, to which profession does Hippocratic oath apply?",
+    "answer": "Doctors"
+  },
+  {
+    "question": "First general of the Edo shogunate?",
+    "answer": "Tokugawa Ieyasu"
+  },
+  {
+    "question": "For which disease did Edward Jenner, known as the father of immunology, develop a vaccine ?",
+    "answer": "Smallpox"
+  },
+  {
+    "question": "Founder of Edo Bakufu?",
+    "answer": "Tokugawa Ieyasu"
+  },
+  {
+    "question": "Galileo's Leaning Tower of Pisa experiment overturned a theory of which Ancient Greek scientists?",
+    "answer": "Aristotle"
+  },
+  {
+    "question": "Henry I took the throne of Englnd in the year 1100 after which relative died?",
+    "answer": "His Brother"
+  },
+  {
+    "question": "Homer's 'The Iliad' focuses on events happening during which war or battle?",
+    "answer": "The Trojan War"
+  },
+  {
+    "question": "How did Saladin change the Middle East?",
+    "answer": "Palestine"
+  },
+  {
+    "question": "How long does the item Builder Recruitment last?",
+    "answer": "2 days"
+  },
+  {
+    "question": "How many action points can a governor have?",
+    "answer": "1000"
+  },
+  {
+    "question": "How many bones does an adult human have?",
+    "answer": "206"
+  },
+  {
+    "question": "How many Elite Commanders are there in the game?",
+    "answer": "5"
+  },
+  {
+    "question": "How many fingers does the cartoon character mickey mouse have on each hand?",
+    "answer": "4"
+  },
+  {
+    "question": "How many floors is Shanghai Jin Mao Tower?",
+    "answer": "88"
+  },
+  {
+    "question": "How many olympic gold medals did African-American Jesse Owens win in 1936?",
+    "answer": "4"
+  },
+  {
+    "question": "How many pieces of normal iron ore must be combined to make a piece of Advanced iron ore?",
+    "answer": "4"
+  },
+  {
+    "question": "How many times can you be helped if your alliance center is level 14?",
+    "answer": "18"
+  },
+  {
+    "question": "how many times is the character 1 used when you write from numbers 1 to number 99?",
+    "answer": "20"
+  },
+  {
+    "question": "In 1998, the 16th FIFA World Cup was held in which country?",
+    "answer": "France"
+  },
+  {
+    "question": "In ancient Greece which philosopher liked to discuss ideas on a street which then got the name 'Peripatetic School'?",
+    "answer": "Aristotle"
+  },
+  {
+    "question": "In Ark of Osiris which speedup can be used?",
+    "answer": "Healing Speed Up"
+  },
+  {
+    "question": "In Greek mythlogy, which hero quested for the golden fleece?",
+    "answer": "Jason"
+  },
+  {
+    "question": "In Greek mythology, to whom did Paris the prince of troy give golden apple inscribed with to the most beautiful goddess?",
+    "answer": "Aphrodite"
+  },
+  {
+    "question": "In Greek mythology, what was the name of Hades' 3-headed dog which guarded the gates of the Underworld",
+    "answer": "Cerberus"
+  },
+  {
+    "question": "In most cases, what kind of mosquitoes will drink animal blood?",
+    "answer": "Female mosquitos"
+  },
+  {
+    "question": "In the Commander View page, what buff do commanders acting as a 'Charge Captain' get?",
+    "answer": "+1% Rally Attack & Rally Troop March Speed"
+  },
+  {
+    "question": "In the Commander View page, what buff do commanders acting as a 'King Head' get?",
+    "answer": "+1% Troop Defense and Health"
+  },
+  {
+    "question": "In the Commander View page, what buff do commanders acting as a 'Ranger' get?",
+    "answer": "+5% XP Gain & Damage vs. Barbarians (none of these answers)"
+  },
+  {
+    "question": "In the Commander View page, what buff do commanders acting as a 'Supply Captain' get?",
+    "answer": "+5% Gathering Speed and Troop Load"
+  },
+  {
+    "question": "In the simplified Maslow's hierachy of needs, which need is at the top of the pyramid?",
+    "answer": "Self-Actualization"
+  },
+  {
+    "question": "Insufficient intake of which element may case thyromegaly?",
+    "answer": "Iodine"
+  },
+  {
+    "question": "karst landform cause",
+    "answer": "Dissolution of soluble rocks"
+  },
+  {
+    "question": "Lost City",
+    "answer": "The Incas"
+  },
+  {
+    "question": "Movable type was first used in which country?",
+    "answer": "China"
+  },
+  {
+    "question": "Mutations are a change in what?",
+    "answer": "DNA"
+  },
+  {
+    "question": "National emblem of Ireland",
+    "answer": "Harp"
+  },
+  {
+    "question": "Of the below commanders, which is best suited to lead troops against infantry enemies?",
+    "answer": "Hermann"
+  },
+  {
+    "question": "Of the following nations, which has the smallest area?",
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Official measure Martin Luther?",
+    "answer": "Edict of Worms"
+  },
+  {
+    "question": "Old part empire now on which asian country lands",
+    "answer": "Iran"
+  },
+  {
+    "question": "One of the Knights of the Round Table",
+    "answer": "Lancelot"
+  },
+  {
+    "question": "Pandas have 5 clawed toes as well as a sixth digit. What do pandas use their sixth digit for?",
+    "answer": "To hold bamboo while eating"
+  },
+  {
+    "question": "Renaissance painters in Flanders, as in Italy, tended to produce what type of artwork?",
+    "answer": "Realistic"
+  },
+  {
+    "question": "Since its founding in 1863, how many times has the International Comittee of the Red Cross won the Nobel Peace Prize?",
+    "answer": "3"
+  },
+  {
+    "question": "The 'American Dream' is rooted in which of these documents?",
+    "answer": "The Declaration of Independence"
+  },
+  {
+    "question": "The 1000 point achievement chest includes:",
+    "answer": "Epic Commander sculpture"
+  },
+  {
+    "question": "The Alliance Technology 'Territory Gaurdian' increases which attribute of troops when battling in Alliance territory?",
+    "answer": "Attack"
+  },
+  {
+    "question": "The cathedral of Notre-dame de Paris was build on which style?",
+    "answer": "Gothic"
+  },
+  {
+    "question": "The differences among a species, like different bird beaks, are called?",
+    "answer": "Variations"
+  },
+  {
+    "question": "The dragonfly cutter was the weapon of choice of which legendary warrior?",
+    "answer": "Tadakatsu Honda"
+  },
+  {
+    "question": "The famous renaissance sculpture Pieta was the work of which artist?",
+    "answer": "Michelangelo"
+  },
+  {
+    "question": "The four biggest musicals in the world are Cats, Les Miserables, Miss Saigon, and?",
+    "answer": "The Phantom of the Opera"
+  },
+  {
+    "question": "The four major varieties of Guzheng in Ancient China were the Haozhong, Luqi, Jiaowei, and the...?",
+    "answer": "Raoliang"
+  },
+  {
+    "question": "The Greek alphabet originated from which other writing system",
+    "answer": "Phoenician"
+  },
+  {
+    "question": "The great Asoka, which was the king of the ancient Indian kingdom",
+    "answer": "Maurya"
+  },
+  {
+    "question": "'The end justifies the means' was a key belief of the author of 'The Prince'. What was his name?",
+    "answer": "Machiavelli"
+  },
+  {
+    "question": "'Tongwancheng' was the capital of which ethnic group from ancient China?",
+    "answer": "The Xiongnu"
+  },
+  {
+    "question": "The last emperor of Holy Roman Empire",
+    "answer": "Francis II"
+  },
+  {
+    "question": "The novel Romance of the Three Kingdoms begins near the end of which Chinese Dynasty",
+    "answer": "Han"
+  },
+  {
+    "question": "The process of splitting atoms is known as",
+    "answer": "Fission"
+  },
+  {
+    "question": "The Renaissance was a 'Rebirth' of",
+    "answer": "Classical Culture"
+  },
+  {
+    "question": "The three great philosophers of ancient Greece were Plato, Aristotle, and?",
+    "answer": "Socrates"
+  },
+  {
+    "question": "The three kingdoms of Korea where Baekje, Silla, and?",
+    "answer": "Goguryeo"
+  },
+  {
+    "question": "The Throwing Axeman is which civilization's special unit?",
+    "answer": "France"
+  },
+  {
+    "question": "The two capitals of Austria - Hungary were Budapest and?",
+    "answer": "Vienna"
+  },
+  {
+    "question": "To which army did the 'Varangian Guard' belong?",
+    "answer": "The Byzantine army"
+  },
+  {
+    "question": "To whom did India give title mahatma?",
+    "answer": "Mohandas Karamchand Gandhi"
+  },
+  {
+    "question": "Unit type strong against Infantry?",
+    "answer": "Archer"
+  },
+  {
+    "question": "Wealthy family in Florence",
+    "answer": "Medicis"
+  },
+  {
+    "question": "What animal is the 'Tigris' named after in ancient Greek",
+    "answer": "Tiger"
+  },
+  {
+    "question": "What are the Books of Covenant used for?",
+    "answer": "Upgrading Castle"
+  },
+  {
+    "question": "What are the wind-shaped cones of tornadoes famous for?",
+    "answer": "Spinning"
+  },
+  {
+    "question": "What caused the death of the outstanding statesmen and military strategist, Pericles?",
+    "answer": "A plague"
+  },
+  {
+    "question": "What causes the distinctive smell in the air after it rains?",
+    "answer": "The influence of actinomycetes"
+  },
+  {
+    "question": "What Chieftain from the Ceroli Crisis event is well-versed in poison magic?",
+    "answer": "Dekar"
+  },
+  {
+    "question": "What color is a polar bears skin?",
+    "answer": "Black"
+  },
+  {
+    "question": "What discovery made the deciphering of hieroglyphics possible ?",
+    "answer": "Rosetta stone"
+  },
+  {
+    "question": "What does alliance skill 'fully loaded' do?",
+    "answer": "Increases alliance members' gathering speed for one type of resource"
+  },
+  {
+    "question": "What does alliance skill 'nature's gift' do?",
+    "answer": "Summon resources point in a selected area (cannot be used in the lost kingdom)"
+  },
+  {
+    "question": "What does the word 'Formua' in 'Formula 1 Racing' refer to?",
+    "answer": "The rules which participating cars must follow"
+  },
+  {
+    "question": "What four words saying did Oda Nobunaga live by?",
+    "answer": "Rule With Absolute Force"
+  },
+  {
+    "question": "What is a light year a measure of?",
+    "answer": "Distance"
+  },
+  {
+    "question": "What is a monotheist?",
+    "answer": "Only believe in one god"
+  },
+  {
+    "question": "What is Commander Baybars good at?",
+    "answer": "Leading cavalry units"
+  },
+  {
+    "question": "What is the deepest known trench in the world?",
+    "answer": "The Mariana Trench"
+  },
+  {
+    "question": "What is the highest level a City Hall can reach in Rise of Kingdoms?",
+    "answer": "25"
+  },
+  {
+    "question": "What is the location of the mysterious stoneage?",
+    "answer": "Germany"
+  },
+  {
+    "question": "What is the most abundant element in the earth's crust?",
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the name of the renewable energy derived from burning organic materials such as wood and alcohol?",
+    "answer": "Biomass energy"
+  },
+  {
+    "question": "What is the national emblem of Ireland",
+    "answer": "Harp"
+  },
+  {
+    "question": "What is the root cause of altitude sickness ?",
+    "answer": "Rapid exposure to low amounts of oxygen at high elevation"
+  },
+  {
+    "question": "What is the softest material known to mankind?",
+    "answer": "Talc"
+  },
+  {
+    "question": "What is the troop health bonus you can get from a fully upgraded Hospital?",
+    "answer": "1%"
+  },
+  {
+    "question": "What was the famous speech by Otto von Bismarck regarding in 1862?",
+    "answer": "Blood and Iron"
+  },
+  {
+    "question": "When Achilles refuses to fight, Patroclus puts on Achilles armor, fights the trojans, and dies, who is Patroclus killed by?",
+    "answer": "Hector"
+  },
+  {
+    "question": "When catching and releasing deep sea fish,why is it important to pierce their swim bladder?",
+    "answer": "To prevent them from dying of distended swim bladders"
+  },
+  {
+    "question": "When did dinosaurs first exist?",
+    "answer": "Triassic"
+  },
+  {
+    "question": "When did the war of Austrian succession take place?",
+    "answer": "1740 – 1748"
+  },
+  {
+    "question": "When is the International Day of Forests?",
+    "answer": "March 21"
+  },
+  {
+    "question": "When is the World No Tobacco Day?",
+    "answer": "May 31"
+  },
+  {
+    "question": "Where did Genghis Khan start building his Mongolian Empire?",
+    "answer": "Asia"
+  },
+  {
+    "question": "Where did King John of England agree to the Magna Carta in 1215?",
+    "answer": "Runnymede"
+  },
+  {
+    "question": "Where did the soldiers of Ancient Rome get their weapons and armor?",
+    "answer": "Themselves"
+  },
+  {
+    "question": "Where was the first Winter Olympics held in 1924?",
+    "answer": "France"
+  },
+  {
+    "question": "Which ancient Egyptian pharaoh's tome did British archaeologist Howard Carter discover in 1922?",
+    "answer": "Tutankhamun"
+  },
+  {
+    "question": "Which ancient Greek scholar laid the foundations for future European mathematics and authored the 'Elements' of geometry?",
+    "answer": "Euclid"
+  },
+  {
+    "question": "Which artist designed St. Peter's Basilica in the Vatican?",
+    "answer": "Michelangelo"
+  },
+  {
+    "question": "Which artist painted Girl With a Pearl Earring?",
+    "answer": "Johannes Vermeer"
+  },
+  {
+    "question": "Which building was originally built in London to house the Great Exhibition of the Works Industry of All Nations held in 1851?",
+    "answer": "The Crystal Palace"
+  },
+  {
+    "question": "Which city defeated Sparta in the 'Battle of Leuctra'?",
+    "answer": "Thebes"
+  },
+  {
+    "question": "Which civilian airport is above sea level?",
+    "answer": "Daocheng Yading Airport"
+  },
+  {
+    "question": "Which civilization gives a 5% attack bonus to cavalry units?",
+    "answer": "Germany"
+  },
+  {
+    "question": "Which civilization increases hospital capacity?",
+    "answer": "Byzantium"
+  },
+  {
+    "question": "Which civilization offers increased hospital capacity?",
+    "answer": "Byzantine"
+  },
+  {
+    "question": "Which commander excels at leading infantry?",
+    "answer": "Richard I"
+  },
+  {
+    "question": "Which commander is commonly regarded as having exemplified the ideal of 'bushido spirit'?",
+    "answer": "Kusunoki Masashige"
+  },
+  {
+    "question": "Which commander is known as 'The Immortal Hammer'",
+    "answer": "Charles Martel"
+  },
+  {
+    "question": "Which commander is named death hydromel?",
+    "answer": "Sarka"
+  },
+  {
+    "question": "Which commander showed their military genius in the Battle of Poitiers in the 8th century AD?",
+    "answer": "Charles Martel"
+  },
+  {
+    "question": "Which commander was nicknamed mead of death?",
+    "answer": "Sarka"
+  },
+  {
+    "question": "Which commander was part of the Battle of Red Cliffs?",
+    "answer": "Cao Cao"
+  },
+  {
+    "question": "Which country gave the Statue of Liberty ti American people as a gift?",
+    "answer": "France"
+  },
+  {
+    "question": "Which country in Asia overlaps with the former Parthian empire?",
+    "answer": "Iran"
+  },
+  {
+    "question": "Which country is Catalhoyuk (Çatalhöyük) located in?",
+    "answer": "Turkey"
+  },
+  {
+    "question": "Which country is not in Europe?",
+    "answer": "Egypt"
+  },
+  {
+    "question": "Which country started the tradition of the 8-hour workday?",
+    "answer": "United Kingdom"
+  },
+  {
+    "question": "Which Dutch Scientist is know as 'the father of microbiology'?",
+    "answer": "Antonie van Leeuwenhoek"
+  },
+  {
+    "question": "Which French monarch was known as Saint Louis?",
+    "answer": "Louis IX"
+  },
+  {
+    "question": "Which group conquered the Byzantine Empire?",
+    "answer": "The Ottomans"
+  },
+  {
+    "question": "Which historical figure is entombed in Palenque's Temple of the Inscriptions?",
+    "answer": "Pakal the Great"
+  },
+  {
+    "question": "Which honorary rank was the founder of Kentucky Fried Chicken (KFC) given?",
+    "answer": "Colonel"
+  },
+  {
+    "question": "Which if the following buffs can take effect during Sunset Canyon battles?",
+    "answer": "Buffs from equipment"
+  },
+  {
+    "question": "Which is NOT a King Skill?",
+    "answer": "Relief"
+  },
+  {
+    "question": "Which is the largest animal on the planet?",
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which military commander was known as 'Teutoburg's Liberator'?",
+    "answer": "Hermann"
+  },
+  {
+    "question": "Which musical instrument has six strings?",
+    "answer": "Guitar"
+  },
+  {
+    "question": "Which nation was NOT involved in the Battle of Waterloo?",
+    "answer": "Italy"
+  },
+  {
+    "question": "Which of the following accurately describes the Arctic Circle",
+    "answer": "Polar Day and Polar Night are phenomenons that occur there"
+  },
+  {
+    "question": "Which of the following civilizations increase the damage of active commander skills by 5%?",
+    "answer": "Ottomans"
+  },
+  {
+    "question": "Which of the following commander excels at gathering resources?",
+    "answer": "Cleopatra VII"
+  },
+  {
+    "question": "Which of the following commanders was part of the hundred years war?",
+    "answer": "Joan of Arc"
+  },
+  {
+    "question": "Which of the following did Desiderius Erasmus and Thomas More have in common?",
+    "answer": "Both were considered humanists"
+  },
+  {
+    "question": "Which of the following does not award Individual Credits?",
+    "answer": "Giving resources to allies"
+  },
+  {
+    "question": "Which of the following does not increase an Alliance's member limit",
+    "answer": "Appointing officers"
+  },
+  {
+    "question": "Which of the following does the green Olympic Ring represent?",
+    "answer": "Oceania"
+  },
+  {
+    "question": "Which of the following factors allows certain mixed drinks to be layered?",
+    "answer": "Density"
+  },
+  {
+    "question": "Which of the following fruits, known as 'wolf peach', were erroneously thought to be poisonous?",
+    "answer": "Tomatoes"
+  },
+  {
+    "question": "Which of the following is 'NOT' a 'low country' of Europe?",
+    "answer": "The United Kingdom"
+  },
+  {
+    "question": "Which of the following is a name for sedimentary rock formed from decayed plant materiel in swampy areas?",
+    "answer": "Coal"
+  },
+  {
+    "question": "Which of the following is a nonrenewable energy source (such as coal, oil, or natural gas)?",
+    "answer": "Fossil Fuel"
+  },
+  {
+    "question": "Which of the following is a nonrenewable energy source?",
+    "answer": "Water"
+  },
+  {
+    "question": "Which of the following is a Phase of the Mightiest Governor?",
+    "answer": "Enemy Elimination"
+  },
+  {
+    "question": "Which of the following is a term for a valuable material of geologic origin that can be extracted from the earth",
+    "answer": "Natural Resources"
+  },
+  {
+    "question": "Which of the following is an accurate description of the Mediterranean climate?",
+    "answer": "Hot, dry summers and cool, wet winters"
+  },
+  {
+    "question": "Which of the following is an inexhaustible energy resource that relies on hot magma or hot dry rocks below ground?",
+    "answer": "Geo"
+  },
+  {
+    "question": "Which of the following is considered an energy source?",
+    "answer": "Petroleum"
+  },
+  {
+    "question": "Which of the following is most likely to have directly led to the bronze age?",
+    "answer": "Bronze is harder and more durable than other metals available at the time"
+  },
+  {
+    "question": "Which of the following is not King Skill?",
+    "answer": "Relief"
+  },
+  {
+    "question": "Which of the following is NOT one of Julius Caesar skills?",
+    "answer": "Military Life"
+  },
+  {
+    "question": "Which of the following is NOT one of Osman I's skills?",
+    "answer": "Oblique Tactics"
+  },
+  {
+    "question": "Which of the following is NOT one of Pelagius passive skills?",
+    "answer": "Charge"
+  },
+  {
+    "question": "Which of the following kingdom title descriptions are INCORRECT?",
+    "answer": "Prime minister has increased troop attack"
+  },
+  {
+    "question": "Which of the following stories is not one of Grimms' Fairy Tale?",
+    "answer": "The Little Mermaid"
+  },
+  {
+    "question": "Which of the following structures is a military building?",
+    "answer": "Scout Camp"
+  },
+  {
+    "question": "Which of the following was NOT invented in China?",
+    "answer": "Seismographs"
+  },
+  {
+    "question": "Which of the following was praised by his countrymen as Ancient Greece's best and most honest democratic representative?",
+    "answer": "Pericles"
+  },
+  {
+    "question": "Which of these are NOT considered a Shakespearean tragedy?",
+    "answer": "Twelfth Night"
+  },
+  {
+    "question": "Which of these artists is not considered as a baroque artist?",
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "Which of these avatar frames can be obtained from Ceroli Crisis event?",
+    "answer": "Undersea Kingdom"
+  },
+  {
+    "question": "Which of these commanders gets the ability to convert some slain units into severely wound units when attacking a city?",
+    "answer": "Charlemagne"
+  },
+  {
+    "question": "Which of these commanders was able to defeat the great Charles in the battle?",
+    "answer": "Tomiris"
+  },
+  {
+    "question": "Which of these countries is NOT a founding member of NATO (in 1949)?",
+    "answer": "Turkey"
+  },
+  {
+    "question": "Which of these is not a natural resource?",
+    "answer": "Clothing"
+  },
+  {
+    "question": "Which of these is not considered one of the five good emperors of the Nerva-Antonine dynasty of ancient Rome?",
+    "answer": "Commodus"
+  },
+  {
+    "question": "Which of these is Yi Seong-Gye expert in?",
+    "answer": "Garrison"
+  },
+  {
+    "question": "Which of these items can NOT be obtained by defeating barbarians",
+    "answer": "VIP Points"
+  },
+  {
+    "question": "Which of these novels was NOT written by Margaret Artwood?",
+    "answer": "Flowers for Algernon"
+  },
+  {
+    "question": "Which one of the following is not one of Hermann's skills?",
+    "answer": "Irresistible"
+  },
+  {
+    "question": "Which one of these animals does NOT lay eggs?",
+    "answer": "Bat"
+  },
+  {
+    "question": "Which part of the brain will alcohol affect?",
+    "answer": "The Cerebellum"
+  },
+  {
+    "question": "Which part of the human body contains mostly water?",
+    "answer": "Eyeballs"
+  },
+  {
+    "question": "Which technology comes before Pavise?",
+    "answer": "Bodkin Arrows"
+  },
+  {
+    "question": "Which technology comes before Swordsman?",
+    "answer": "Iron Working"
+  },
+  {
+    "question": "Which title did Pierre de Coubertin, founder of the International Olympic Committee, hold ?",
+    "answer": "Baron"
+  },
+  {
+    "question": "Which two cities does Portugal's Dom Luis Bridge connect?",
+    "answer": "Porta, Vila Nova de Gaia"
+  },
+  {
+    "question": "Which was a lighthouse built after Macedonia conquered Egypt and waste of the seven wonders of the ancient world?",
+    "answer": "The Lighthouse of Alexandria"
+  },
+  {
+    "question": "Which was the only ancient civilization to develop in a tropical jungle rather than a river basin?",
+    "answer": "The Incas"
+  },
+  {
+    "question": "Who defeated Sphinx according to Greek Legend?",
+    "answer": "Oedipus"
+  },
+  {
+    "question": "Who founded the 'Malaca Sultanate'?",
+    "answer": "Parameswara"
+  },
+  {
+    "question": "Who funded Christopher Colombus's travels?",
+    "answer": "Spain"
+  },
+  {
+    "question": "Who is considered the 'Father of Modern Olympic Games'?",
+    "answer": "Pierre de Coubertin"
+  },
+  {
+    "question": "Who is cupid's mother in Roman mythology?",
+    "answer": "Venus"
+  },
+  {
+    "question": "Who is the commander considered an enemy of Rome since childhood?",
+    "answer": "Hannibal Barca"
+  },
+  {
+    "question": "Who is the first Italian to receive the 'Pritzker Architecture Prize'?",
+    "answer": "Aldo Rossi"
+  },
+  {
+    "question": "Who killed Hector and how Achilles die?",
+    "answer": "Achilles; Arrow though his heel"
+  },
+  {
+    "question": "Who made the idea 'Troy'?",
+    "answer": "Odysseus"
+  },
+  {
+    "question": "Who painted The Last Supper?",
+    "answer": "Leonardo Da Vinci"
+  },
+  {
+    "question": "Who was praised by his countryman as ancient Greece's best and most honest democratic representatives?",
+    "answer": "Pericles"
+  },
+  {
+    "question": "Who was the first King of Italy after its unification in 1861?",
+    "answer": "Victor Emmanuel II"
+  },
+  {
+    "question": "Who was the last female Pharaoh of the Ptolemy Dynasty?",
+    "answer": "Cleopatra VII"
+  },
+  {
+    "question": "Who won the Trojan war?",
+    "answer": "The Greeks"
+  },
+  {
+    "question": "Who wrote Alice in Wonderland?",
+    "answer": "Lewis Carroll"
+  },
+  {
+    "question": "Who instituted the Julian Calendar?",
+    "answer": "Julius Caesar"
+  },
+  {
+    "question": "When is the declaration of independence?",
+    "answer": "1776"
+  },
+  {
+    "question": "Where did king Louis XIV of France move to royal court to in 1682?",
+    "answer": "Palace of Versailles"
+  },
+  {
+    "question": "Which of the following is Zeus' elder brother in Geek Mythology?",
+    "answer": "Poseidon"
+  },
+  {
+    "question": "Which of the following wasn't a benefit from being a Scribe of Ancient Egypt?",
+    "answer": "Exempt from medical paid sick lead"
+  },
+  {
+    "question": "Who led Kingdom of the Vandals and Alans in Vandalic War?",
+    "answer": "Belisarius"
+  },
+  {
+    "question": "Which of the followong is NOT one of Baybar's skills?",
+    "answer": "Thunderous Force"
+  },
+  {
+    "question": "Which of these is one of Minamoto no Yoshitune's 'Active Skill'?",
+    "answer": "Kyohachiryu"
+  },
+  {
+    "question": "Which of these artists was NOT a Baraque painter?",
+    "answer": "Vincent Van Gogh"
+  },
+  {
+    "question": "The 1000 point achievement chests includes:",
+    "answer": "Epic Commander sculpture"
+  },
+  {
+    "question": "Which artist is buried at the Pantheon?",
+    "answer": "Raphael"
+  },
+  {
+    "question": "Turkish strait crisis divide Europe and Asia",
+    "answer": "Bosporus"
   }
 ]
