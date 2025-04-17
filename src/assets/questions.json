@@ -24,16 +24,8 @@
     "answer": "Hector"
   },
   {
-    "question": "Which of these characters is from 'Twenty Thousand leagues Under the seas'?",
-    "answer": "Captain Nemo"
-  },
-  {
     "question": "Which of these city themes looks like a vehicle?",
     "answer": "On the wings of sailcloth"
-  },
-  {
-    "question": "Who designed the djoser, the first ancient pyramid featuring a stepped design?",
-    "answer": "Imhotep"
   },
   {
     "question": "Which of the following is not an objective of Greek mythology?",
@@ -42,10 +34,6 @@
   {
     "question": "Which of the following organs is part of the human respiratory system?",
     "answer": "Lungs"
-  },
-  {
-    "question": "What country is not in Europe?",
-    "answer": "Egypt"
   },
   {
     "question": "During a solar eclipse, the celestial object that comes between the Sun and the earth is:",
@@ -1836,16 +1824,8 @@
     "answer": "The Odyssey"
   },
   {
-    "question": "The Phoenician civilization originated in which part of the world?",
-    "answer": "The Eastern Mediterranean"
-  },
-  {
     "question": "The poet Fernando Pessoa was known for writing his poems as different 'characters', which he called 'heteronyms'. Which of these is NOT one of the heteronyms that Pessoa used?",
     "answer": "Francisco Norman"
-  },
-  {
-    "question": "The prehistoric humans known as 'homo floresiensis' are also commonly referred to as?",
-    "answer": "Hobbits"
   },
   {
     "question": "The process of combining atoms is known as what?",
@@ -2288,10 +2268,6 @@
     "answer": "King Fahd International Airport"
   },
   {
-    "question": "What is the largest animal on the planet?",
-    "answer": "Blue whale"
-  },
-  {
     "question": "What is the largest city in the UK by area?",
     "answer": "London"
   },
@@ -2548,10 +2524,6 @@
     "answer": "Portugal and Spain"
   },
   {
-    "question": "What two major works are attributed to Homer?",
-    "answer": "The Odyssey and The Iliad"
-  },
-  {
     "question": "What useful tool did famed carpenter Lu Ban invent?",
     "answer": "The saw"
   },
@@ -2638,10 +2610,6 @@
   {
     "question": "What weapons does the commander City Keeper wield?",
     "answer": "An axe and shield"
-  },
-  {
-    "question": "What were Maya pyramids made of?",
-    "answer": "Stone"
   },
   {
     "question": "What were the men and women hiding from on the outskirts of Florence in the novella collection 'The Decameron'?",
@@ -3616,11 +3584,11 @@
     "answer": "William Harvey"
   },
   {
-    "question": "Which of the following does not award Individual Credits?",
+    "question": "Which of the following does not award Individual Credits (1)?",
     "answer": "Giving resources to allies"
   },
   {
-    "question": "Which of the following does NOT award Individual Credits?",
+    "question": "Which of the following does NOT award Individual Credits? (2)",
     "answer": "Attacking Barbarians"
   },
   {
@@ -3674,10 +3642,6 @@
   {
     "question": "Which of the following is a liquid fossil fuel formed from marine organisms that is burned to obtain energy and used to manufacture plastics?",
     "answer": "Oil"
-  },
-  {
-    "question": "Which of the following is a military building?",
-    "answer": "Scout Camp"
   },
   {
     "question": "Which of the following is a name for sedimentary rock formed from decayed plant material in swampy areas?",
@@ -3744,10 +3708,6 @@
     "answer": "Relief"
   },
   {
-    "question": "Which of the following is not a natural resource?",
-    "answer": "Clothing"
-  },
-  {
     "question": "Which of the following is NOT a prerequisite for the Military Technology Cartography?",
     "answer": "Ballistics"
   },
@@ -3770,10 +3730,6 @@
   {
     "question": "Which of the following is NOT an accurate description of the ancient Kingdom of Kush?",
     "answer": "It did not possess its own unique language and script"
-  },
-  {
-    "question": "Which of the following is not an objective of Greek mythology?",
-    "answer": "Provide a path for salvation"
   },
   {
     "question": "Which of the following is NOT considered a single-celled organism?",
@@ -3864,11 +3820,11 @@
     "answer": "Tomato Juice"
   },
   {
-    "question": "Which of the following kingdom title descriptions is incorrect?",
+    "question": "Which of the following kingdom title descriptions is incorrect? (1)",
     "answer": "Dukes' troops have increased attack"
   },
   {
-    "question": "Which of the following kingdom title descriptions is incorrect?",
+    "question": "Which of the following kingdom title descriptions is incorrect? (2)",
     "answer": "Prime Ministers' troops have increased attack"
   },
   {
@@ -3894,10 +3850,6 @@
   {
     "question": "Which of the following nations is the closest to the North Pole?",
     "answer": "Finland"
-  },
-  {
-    "question": "Which of the following organs is part of the human respiratory system?",
-    "answer": "Lungs"
   },
   {
     "question": "Which of the following penalties may be applied in response to the use of third-party software?",
@@ -4078,10 +4030,6 @@
   {
     "question": "Which of these active skills belongs to Charles Martel?",
     "answer": "Immortal Shield"
-  },
-  {
-    "question": "Which of these active skills belongs to Charles Martel?",
-    "answer": "Shield of Francia"
   },
   {
     "question": "Which of these airports has runways on a beach?",
@@ -5016,10 +4964,6 @@
     "answer": "Parameswara"
   },
   {
-    "question": "Who founded the 'Spanish Armada'?",
-    "answer": "Philip II"
-  },
-  {
     "question": "Who founded the First Persian Empire?",
     "answer": "Cyrus the Great"
   },
@@ -5492,10 +5436,6 @@
     "answer": "Gold"
   },
   {
-    "question": "Who founded England's Order of the Garter?",
-    "answer": "Edward III"
-  },
-  {
     "question": "Which of these statements about the title 'tribune of the plebs' is incorrect?",
     "answer": "They were fully subservient to the Senate"
   },
@@ -5610,10 +5550,6 @@
   {
     "question": "Who was the author of the novel 'Lord of Rings'?",
     "answer": "J. R. R. Tolkien"
-  },
-  {
-    "question": "If a man with type AB blood and a woman with type B blood have a baby, which of the following statements would be incorrect?",
-    "answer": "It cloud have type O blood"
   },
   {
     "question": "What are the poles of a magnet?",

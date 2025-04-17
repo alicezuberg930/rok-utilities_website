@@ -1,5 +1,5 @@
 'use client'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 // data
 import data from '@/assets/questions.json'
 // @mui
@@ -20,6 +20,16 @@ export default function page() {
   }
 
   // const isFiltered = filterName !== ''
+  useEffect(() => {
+    // let dataTemp = data
+    // for (let i = 0; i < dataTemp.length; i++) {
+    //   for (let j = i + 1; j < dataTemp.length; j++) {
+    //     if (dataTemp[i].question === dataTemp[j].question) {
+    //       console.log(dataTemp[j].question)
+    //     }
+    //   }
+    // }
+  }, [])
 
   const dataFiltered = applyFilter({
     inputData: data,
@@ -57,10 +67,10 @@ export default function page() {
         />
       ) : (
         <List sx={{ mt: 2 }}>
-          {dataFiltered.map((item, index) => {
+          {dataFiltered.map(item => {
             return (
               <ListItem
-                key={index}
+                key={item.question.toLowerCase()}
                 sx={{
                   mb: 2,
                   border: '1px solid',
@@ -72,14 +82,10 @@ export default function page() {
               >
                 <ListItemText
                   primary={
-                    <Typography variant="subtitle1">
-                      {highlightText(item.question, filterName)}
-                    </Typography>
+                    <Typography variant="subtitle1">{highlightText(item.question, filterName)}</Typography>
                   }
                   secondary={
-                    <Typography variant="h6" color="info">
-                      Answer: {item.answer}
-                    </Typography>
+                    <Typography variant="h6" color="info">Answer: {item.answer}</Typography>
                   }
                 />
               </ListItem>
