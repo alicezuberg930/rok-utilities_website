@@ -31,7 +31,7 @@ export default function page() {
   }, [debouncedFilterName])
 
   // get and set height of item
-  const getSize = (index: number) => sizeMap.current[index] || 100
+  const getSize = (index: number) => sizeMap.current[index] || 120
   const setSize = (index: number, size: number) => {
     if (sizeMap.current[index] !== size) {
       sizeMap.current = { ...sizeMap.current, [index]: size }
@@ -62,13 +62,14 @@ export default function page() {
         key={item.question.toLowerCase()}
         style={style}
         sx={{
-          p: 2,
+          px: 2,
+          alignContent: 'center',
           border: '1px solid',
           borderColor: 'divider',
           borderRadius: 4,
         }}
       >
-        <Typography variant='subtitle1'>
+        <Typography variant='subtitle1' className='line-clamp-2'>
           {highlightText(item.question, debouncedFilterName)}
         </Typography>
         <Typography variant='h6' color='info'>
@@ -124,6 +125,7 @@ export default function page() {
             {
               ({ height, width }) => (
                 <VariableSizeList
+                  className="no-scrollbar"
                   ref={listRef}
                   outerRef={listOuterRef}
                   height={height}
