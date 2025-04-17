@@ -21,9 +21,16 @@ export default function page() {
   const [filterName, setFilterName] = useState<string>('')
   const debouncedFilterName = useDebounce(filterName, 400)
   const listRef = useRef<VariableSizeList>(null)
+  const listOuterRef = useRef<HTMLDivElement | null>(null)
   const sizeMap = useRef<{ [key: number]: number }>({})
 
-  // 
+  useEffect(() => {
+    if (listOuterRef.current) {
+      listOuterRef.current.scrollTo({ top: 0, behavior: 'smooth' })
+    }
+  }, [debouncedFilterName])
+
+  // get and set height of item
   const getSize = (index: number) => sizeMap.current[index] || 100
   const setSize = (index: number, size: number) => {
     if (sizeMap.current[index] !== size) {
@@ -118,6 +125,7 @@ export default function page() {
               ({ height, width }) => (
                 <VariableSizeList
                   ref={listRef}
+                  outerRef={listOuterRef}
                   height={height}
                   itemCount={dataFiltered.length}
                   itemSize={getSize}
